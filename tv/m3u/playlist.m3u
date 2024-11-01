@@ -473,11 +473,11 @@ http://192.168.6.1:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
 http://192.168.6.1:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="咪咕全民热练" tvg-logo="https://live.fanmingming.com/tv/咪咕全民热练.png" group-title="网络点播",咪咕全民热练
 http://192.168.6.1:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-1" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-1.png" group-title="网络点播",咪咕视频_8M1080_湖南bblive-1
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-1.png" group-title="网络点播",咪咕视频_8M1080_湖南bblive-1
 http://192.168.6.1:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-2" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-2.png" group-title="网络点播",咪咕视频_8M1080_湖南bblive-2
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-2.png" group-title="网络点播",咪咕视频_8M1080_湖南bblive-2
 http://192.168.6.1:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-3" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-3.png" group-title="网络点播",咪咕视频_8M1080_湖南bblive-3
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-3.png" group-title="网络点播",咪咕视频_8M1080_湖南bblive-3
 http://192.168.6.1:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="咪咕视频_8M1080_湖南bblive-4" tvg-logo="https://live.fanmingming.com/tv/咪咕视频_8M1080_湖南bblive-4.png" group-title="网络点播",咪咕视频_8M1080_湖南bblive-4
 http://192.168.6.1:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
